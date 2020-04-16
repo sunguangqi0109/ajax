@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
 	<a>ahha</a>
-=======
-
->>>>>>> branch 'master' of https://github.com/sunguangqi0109/ajax.git
 </body>
 </html>
